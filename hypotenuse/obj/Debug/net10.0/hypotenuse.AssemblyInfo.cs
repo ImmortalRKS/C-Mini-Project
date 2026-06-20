@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hypotenuse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2719ae65acc1e298ee5636b7664a55b01d9e5ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("hypotenuse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hypotenuse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
