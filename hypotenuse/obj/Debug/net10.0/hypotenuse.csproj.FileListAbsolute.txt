@@ -1,0 +1,14 @@
+/home/fumetsu/csharp-mini-project/hypotenuse/bin/Debug/net10.0/hypotenuse
+/home/fumetsu/csharp-mini-project/hypotenuse/bin/Debug/net10.0/hypotenuse.deps.json
+/home/fumetsu/csharp-mini-project/hypotenuse/bin/Debug/net10.0/hypotenuse.runtimeconfig.json
+/home/fumetsu/csharp-mini-project/hypotenuse/bin/Debug/net10.0/hypotenuse.dll
+/home/fumetsu/csharp-mini-project/hypotenuse/bin/Debug/net10.0/hypotenuse.pdb
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.AssemblyInfoInputs.cache
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.AssemblyInfo.cs
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.csproj.CoreCompileInputs.cache
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.dll
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/refint/hypotenuse.dll
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.pdb
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/hypotenuse.genruntimeconfig.cache
+/home/fumetsu/csharp-mini-project/hypotenuse/obj/Debug/net10.0/ref/hypotenuse.dll
