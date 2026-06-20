@@ -10,4 +10,5 @@ double b = Convert.ToDouble(Console.ReadLine());
 double c = Math.Sqrt((a*a) + (b*b));
 Console.WriteLine("The hypotenuse of the given side is : " + c);
 
-// This program help us to find hypotenuse of the traingle
+// This program help us to find hypotenuse of the traingle 
+//kinda pretty simple but still ok
